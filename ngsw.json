@@ -1,0 +1,109 @@
+{
+  "configVersion": 1,
+  "timestamp": 1668685555994,
+  "index": "https://JoseZegarra1.github.io/AppPrueba-Api/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://JoseZegarra1.github.io/AppPrueba-Api/25-es2015.086700b2d2bdcb8c4367.js",
+        "https://JoseZegarra1.github.io/AppPrueba-Api/25-es5.086700b2d2bdcb8c4367.js",
+        "https://JoseZegarra1.github.io/AppPrueba-Api/469-es2015.9d33ab2ed42a20776be5.js",
+        "https://JoseZegarra1.github.io/AppPrueba-Api/469-es5.9d33ab2ed42a20776be5.js",
+        "https://JoseZegarra1.github.io/AppPrueba-Api/592-es2015.fd0d1a2d7e0eab565d5e.js",
+        "https://JoseZegarra1.github.io/AppPrueba-Api/592-es5.fd0d1a2d7e0eab565d5e.js",
+        "https://JoseZegarra1.github.io/AppPrueba-Api/868-es2015.c711aa536041458b9893.js",
+        "https://JoseZegarra1.github.io/AppPrueba-Api/868-es5.c711aa536041458b9893.js",
+        "https://JoseZegarra1.github.io/AppPrueba-Api/905-es2015.ebf47a46a0c58abeed30.js",
+        "https://JoseZegarra1.github.io/AppPrueba-Api/905-es5.ebf47a46a0c58abeed30.js",
+        "https://JoseZegarra1.github.io/AppPrueba-Api/favicon.ico",
+        "https://JoseZegarra1.github.io/AppPrueba-Api/index.html",
+        "https://JoseZegarra1.github.io/AppPrueba-Api/main-es2015.b775087d0b55b07ce282.js",
+        "https://JoseZegarra1.github.io/AppPrueba-Api/main-es5.b775087d0b55b07ce282.js",
+        "https://JoseZegarra1.github.io/AppPrueba-Api/manifest.webmanifest",
+        "https://JoseZegarra1.github.io/AppPrueba-Api/polyfills-es2015.2a5a216673160b58db9a.js",
+        "https://JoseZegarra1.github.io/AppPrueba-Api/polyfills-es5.f0d736991c4f56533599.js",
+        "https://JoseZegarra1.github.io/AppPrueba-Api/runtime-es2015.784ac75893796c6b4a70.js",
+        "https://JoseZegarra1.github.io/AppPrueba-Api/runtime-es5.784ac75893796c6b4a70.js",
+        "https://JoseZegarra1.github.io/AppPrueba-Api/scripts.29d971c7d5e612104bfc.js",
+        "https://JoseZegarra1.github.io/AppPrueba-Api/styles.3fb3b3f8d71219da4f49.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://JoseZegarra1.github.io/AppPrueba-Api/assets/icons/icon-128x128.png",
+        "https://JoseZegarra1.github.io/AppPrueba-Api/assets/icons/icon-144x144.png",
+        "https://JoseZegarra1.github.io/AppPrueba-Api/assets/icons/icon-152x152.png",
+        "https://JoseZegarra1.github.io/AppPrueba-Api/assets/icons/icon-192x192.png",
+        "https://JoseZegarra1.github.io/AppPrueba-Api/assets/icons/icon-384x384.png",
+        "https://JoseZegarra1.github.io/AppPrueba-Api/assets/icons/icon-512x512.png",
+        "https://JoseZegarra1.github.io/AppPrueba-Api/assets/icons/icon-72x72.png",
+        "https://JoseZegarra1.github.io/AppPrueba-Api/assets/icons/icon-96x96.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://JoseZegarra1.github.io/AppPrueba-Api/25-es2015.086700b2d2bdcb8c4367.js": "acc49d7b500182112f9d152b86a72e48339cecc2",
+    "https://JoseZegarra1.github.io/AppPrueba-Api/25-es5.086700b2d2bdcb8c4367.js": "1e5842a0816ae3effd9b6a5b86b281ca3ccafa30",
+    "https://JoseZegarra1.github.io/AppPrueba-Api/469-es2015.9d33ab2ed42a20776be5.js": "dbbf2843abf27d568efce461b870309b05ee749b",
+    "https://JoseZegarra1.github.io/AppPrueba-Api/469-es5.9d33ab2ed42a20776be5.js": "e68e637d0a0f3718d3bcd69c9d8cfc16209e250c",
+    "https://JoseZegarra1.github.io/AppPrueba-Api/592-es2015.fd0d1a2d7e0eab565d5e.js": "ee88b80e2625371fe348bb8c49c90df623aee509",
+    "https://JoseZegarra1.github.io/AppPrueba-Api/592-es5.fd0d1a2d7e0eab565d5e.js": "c09732c8af6f88a5fca5289cb7116e2cc884a35e",
+    "https://JoseZegarra1.github.io/AppPrueba-Api/868-es2015.c711aa536041458b9893.js": "cf0fda752d9b3bd8bef0621c80df52484fa1bf95",
+    "https://JoseZegarra1.github.io/AppPrueba-Api/868-es5.c711aa536041458b9893.js": "35e76d777c8c86021bc6bd656ea45a74e7b47841",
+    "https://JoseZegarra1.github.io/AppPrueba-Api/905-es2015.ebf47a46a0c58abeed30.js": "9cb9ab620c58d54f50d8b27e9e81736620dafcec",
+    "https://JoseZegarra1.github.io/AppPrueba-Api/905-es5.ebf47a46a0c58abeed30.js": "46e98fbc60d870adda72d2c41ba96e5b6d1a59a3",
+    "https://JoseZegarra1.github.io/AppPrueba-Api/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "https://JoseZegarra1.github.io/AppPrueba-Api/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "https://JoseZegarra1.github.io/AppPrueba-Api/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "https://JoseZegarra1.github.io/AppPrueba-Api/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "https://JoseZegarra1.github.io/AppPrueba-Api/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "https://JoseZegarra1.github.io/AppPrueba-Api/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "https://JoseZegarra1.github.io/AppPrueba-Api/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "https://JoseZegarra1.github.io/AppPrueba-Api/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "https://JoseZegarra1.github.io/AppPrueba-Api/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "https://JoseZegarra1.github.io/AppPrueba-Api/index.html": "d9338ae1747f9587884a659f7ffbce861955bd68",
+    "https://JoseZegarra1.github.io/AppPrueba-Api/main-es2015.b775087d0b55b07ce282.js": "7602f2e25919c2d5dc571300608da67a5b75cb03",
+    "https://JoseZegarra1.github.io/AppPrueba-Api/main-es5.b775087d0b55b07ce282.js": "39234624034141fc4ea63a2872d4e72d6c57a5d9",
+    "https://JoseZegarra1.github.io/AppPrueba-Api/manifest.webmanifest": "c8de8d99e5b8bc48ce058775f4d64c1fc70e870b",
+    "https://JoseZegarra1.github.io/AppPrueba-Api/polyfills-es2015.2a5a216673160b58db9a.js": "4f949201d3553ea706d855dae06a477cee1f52b2",
+    "https://JoseZegarra1.github.io/AppPrueba-Api/polyfills-es5.f0d736991c4f56533599.js": "915f6fe8c6a9a967f81b14d0a2689006c947a9e9",
+    "https://JoseZegarra1.github.io/AppPrueba-Api/runtime-es2015.784ac75893796c6b4a70.js": "aee13204330815f71275f6d06df8929e3a785cdb",
+    "https://JoseZegarra1.github.io/AppPrueba-Api/runtime-es5.784ac75893796c6b4a70.js": "a661f7a6c2e4af20b9a2fa8aad05b5c026a7a7c4",
+    "https://JoseZegarra1.github.io/AppPrueba-Api/scripts.29d971c7d5e612104bfc.js": "a80aa422c98d4bc006af5df34d4cc64f5a3d26f7",
+    "https://JoseZegarra1.github.io/AppPrueba-Api/styles.3fb3b3f8d71219da4f49.css": "ff8304f521f6b594773919b2b8d42340538d5b54"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
